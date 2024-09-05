@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wght@8..144,600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
+.mam {
+  margin-top: 30px !important;
+}
+.mam h1 {
+  font-family: "cooper-black-std", serif;
+  color: #047537;
+  width: 100%;
+  font-size: 9vmin;
+  overflow-y: hidden;
+}
+.card {
+  border: none;
+  border-radius: 0;
+  box-shadow: 2px 6px 8px 0 #000000(255, 255, 255);
+
+}
+.card-title {
+  font-family: "Roboto Serif", serif;
+  font-size: 1.2rem !important;
+  color: #047537;
+  margin-bottom: 30px !important;
+}
+.card-body .card-text1 {
+  margin-top: -17px !important;
+}
+.Client {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: bolder;
+  font-size: 1rem;
+}
+.table-primaryy {
+background-color: #a1caa7 !important;
+}

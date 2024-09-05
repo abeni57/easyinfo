@@ -1,0 +1,10 @@
+.mam6 {
+  margin-top: 50px !important;
+}
+.mam6 h1 {
+  font-family: "cooper-black-std", serif;
+  color: #047537;
+  width: 100%;
+  font-size: 9vmin;
+  overflow-y: hidden;
+}

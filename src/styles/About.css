@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz@8..144&display=swap");
+.mam1 {
+  margin-top: 50px !important;
+}
+.mam1 .teamT1 {
+  font-family: "cooper-black-std", serif;
+  color: #047537 !important;
+  width: 100%;
+  font-size: 9vmin;
+  overflow-y: hidden;
+}
+.mam1 p {
+  font-family: "Roboto Serif", serif;
+  color: black;
+  text-align: justify;
+}
+.lil li p {
+  overflow-y: hidden !important;
+}
+.lil i {
+  color: #047537 !important;
+}
+.PiE1 {
+  width: 75% !important;
+}
+@media only screen and (max-width: 992px) {
+  .PiE1 {
+    width: 85% !important;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .PiE {
+    margin-top: 20px !important;
+    text-align: center !important;
+  }
+}

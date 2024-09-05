@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif+Caption&display=swap");
+.mam3 {
+  margin-top: 10px !important;
+}
+.mam3 .teamT {
+  font-family: "cooper-black-std", serif !important;
+  color: #047537;
+  width: 100%;
+  font-size: 9vmin;
+  overflow-y: hidden;
+}
+.card {
+  transition: all 0.3s;
+  border-radius: 20px;
+  box-shadow: 2px 6px 8px 0 rgba(22, 22, 26, 0.18);
+}
+.card:hover {
+  color: rgb(0, 0, 0) !important;
+  background: #9ccaa4;
+  transform: translateY(-20px);
+}
+.card-title {
+  font-family: "Roboto Serif", serif;
+  font-size: 2rem !important;
+  font-weight: bold;
+  color: #047537;
+}
+.lead {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 1.2rem;
+}
+.mat1 i {
+  font-weight: bolder;
+  font-size: 2.5rem;
+  overflow-y: hidden !important;
+}
+.serbices {
+  overflow-y: hidden !important;
+}

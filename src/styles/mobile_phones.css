@@ -1,0 +1,10 @@
+.sec {
+  margin-top: 60px !important;
+}
+.Title {
+  font-family: "cooper-black-std", serif !important;
+  color: #047537;
+  width: 100%;
+  font-size: 8vmin;
+  overflow-y: hidden;
+}
